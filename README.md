@@ -1,1 +1,3 @@
 # dwm
+
+Get tar file
